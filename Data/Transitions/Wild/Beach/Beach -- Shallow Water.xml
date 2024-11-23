@@ -2327,7 +2327,7 @@
   </TransInfo>
   <TransInfo Description="Beach to Shallow Water NS" HashKey="505050505050065006">
     <MapTiles>
-     <MapTile TileID="22" AltIDMod="-15" />
+      <MapTile TileID="22" AltIDMod="-15" />
       <MapTile TileID="23" AltIDMod="-15" />
       <MapTile TileID="24" AltIDMod="-15" />
       <MapTile TileID="25" AltIDMod="-15" />
