@@ -1,11 +1,12 @@
 <h3 align="center">UO Landscaper Mod</h3>
 
 <div align="center">
-[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/norad32/uo-landscaper-mod.svg)](https://github.com/norad32/uo-landscaper-mod/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/norad32/uo-landscaper-mod.svg)](https://github.com/norad32/uo-landscaper-mod/pulls)
-[![License](https://img.shields.io/github/license/norad32/uo-landscaper-mod
-.svg)](https://github.com/norad32/uo-landscaper-mod?tab=MIT-1-ov-file)
+    
+  [![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
+  [![GitHub Issues](https://img.shields.io/github/issues/norad32/uo-landscaper-mod.svg)](https://github.com/norad32/uo-landscaper-mod/issues)
+  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/norad32/uo-landscaper-mod.svg)](https://github.com/norad32/uo-landscaper-mod/pulls)
+  [![License](https://img.shields.io/github/license/norad32/uo-landscaper-mod.svg)](https://github.com/norad32/uo-landscaper-mod?tab=MIT-1-ov-file)
+  
 </div>
 
 ---
