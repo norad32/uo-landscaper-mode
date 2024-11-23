@@ -1,10 +1,11 @@
 <h3 align="center">UO Landscaper Mod</h3>
 
 <div align="center">
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/norad32/uo-landscaper-mod/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
+[![GitHub Issues](https://img.shields.io/github/issues/norad32/uo-landscaper-mod.svg)](https://github.com/norad32/uo-landscaper-mod/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/norad32/uo-landscaper-mod.svg)](https://github.com/norad32/uo-landscaper-mod/pulls)
+[![License](https://img.shields.io/github/license/norad32/uo-landscaper-mod
+.svg)](https://github.com/norad32/uo-landscaper-mod?tab=MIT-1-ov-file)
 </div>
 
 ---
@@ -96,4 +97,4 @@ For detailled insturctions, refer to the [Wiki](https://github.com/norad32/uo-la
 - **Dknight** and **Admin Khaybel** of [OrBSydia](https://orbsydia.com/) for creating UO Landscaper.
 - **Darus** for creating the best BMP2MAP conversion tool worldwide.
 - **Richard Garriott**, **Starr Long**, **Raph Koster**, **Rick Delashmit**, **Scott Phillips**, **Kirk Winterrowd**, **Joe Basquez** and **Hal Milton** for creating Worlds.
-- The Ultima Online Free Shard community for their continuous support and inspiration.
+- The **Ultima Online Free Shard Community** for their continuous support and inspiration.
