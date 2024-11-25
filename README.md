@@ -1,4 +1,4 @@
-<h3 align="center">UO Landscaper Mod</h3>
+<h1 align="center">UO Landscaper Mod</h3>
 
 <div align="center">
     
@@ -87,7 +87,7 @@ _Ensure you replace C:\Path\To\UO_Landscaper with your actual installation path.
 
 You can use UO Landscaper with the mod as usual.
 
-For detailled insturctions, refer to the [Wiki](https://github.com/norad32/uo-landscaper-mod/wiki)
+For detailled instructions, refer to the [Wiki](https://github.com/norad32/uo-landscaper-mod/wiki)
 
 ## Authors <a name = "authors"></a>
 
