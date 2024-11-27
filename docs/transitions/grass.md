@@ -1,5 +1,6 @@
 ---
 title: Grass
 parent: Transitions
-nav_order: 0
+layout: home
+nav_order: 1
 ---

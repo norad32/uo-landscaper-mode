@@ -1,5 +1,6 @@
 ---
 title: Grass
+layout: home
 parent: Statics
-nav_order: 0
+nav_order: 1
 ---
