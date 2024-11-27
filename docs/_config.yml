@@ -6,3 +6,13 @@ url: https://norad32.github.io/uo-landscaper-mod
 
 aux_links:
   UO Landscaper Mod on GitHub: https://norad32.github.io/uo-landscaper-mod/
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+
+callouts:
+  note:
+    title: Note
+    color: purple

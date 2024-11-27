@@ -4,6 +4,8 @@ layout: home
 nav_order: 1
 ---
 
+# Installation
+
 Follow these steps to set up UO Landscaper Mod:
 
 1. Install UO Landscaper
