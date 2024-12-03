@@ -11,7 +11,7 @@
 
 ---
 
-<p align="center"> A mod for UO Landscaper that aims to provide complete transition tables for modern Ultima Online maps.
+<p align="center"> A mod for UO Landscaper that aims to provide complete transition and random static tables for modern Ultima Online maps.
     <br> 
 </p>
 
@@ -32,7 +32,7 @@ The **UO Landscaper Mod** aims to enhance the Ultima Online mapping tool, UO Lan
 
 While this mod arrives fashionably about two decades too late, it serves as a testament to the lasting legacy of Ultima Online and its active Free Shard community.
 
-**Note:** This repository includes only the data XML files used by UO Landscaper. It does not contain the source code or binaries of the UO Landscaper tool itself.
+**Note:** This repository includes only the XML files used by UO Landscaper. It does not contain the source code or binaries of UO Landscaper itself.
 
 ## Getting Started <a name = "getting_started"></a>
 
@@ -86,8 +86,6 @@ _Ensure you replace C:\Path\To\UO_Landscaper with your actual installation path.
 ## Usage <a name="usage"></a>
 
 You can use UO Landscaper with the mod as usual.
-
-For detailled instructions, refer to the [Wiki](https://github.com/norad32/uo-landscaper-mod/wiki)
 
 ## Authors <a name = "authors"></a>
 
