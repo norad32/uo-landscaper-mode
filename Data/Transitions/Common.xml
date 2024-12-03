@@ -437,7 +437,7 @@
   </TransInfo>
   <TransInfo Description="Common - Cobblestones" HashKey="181818181818181818">
     <MapTiles>
-      <MapTile TileID="103E" AltIDMod="0" />
+      <MapTile TileID="1001" AltIDMod="0" />
       <MapTile TileID="1002" AltIDMod="0" />
       <MapTile TileID="1003" AltIDMod="0" />
       <MapTile TileID="1004" AltIDMod="0" />
@@ -447,7 +447,7 @@
   <TransInfo Description="Common - Lava" HashKey="0D0D0D0D0D0D0D0D0D" File="Lava.xml">
     <MapTiles>
       <MapTile TileID="500" AltIDMod="0" />
-      <MapTile TileID="53E" AltIDMod="0" />
+      <MapTile TileID="501" AltIDMod="0" />
       <MapTile TileID="502" AltIDMod="0" />
       <MapTile TileID="503" AltIDMod="0" />
     </MapTiles>
@@ -505,7 +505,7 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Common - Flagstone Brown" HashKey="13E3E3E3E3E3E3E3E0">
+  <TransInfo Description="Common - Flagstone Brown" HashKey="101010101010101010">
     <MapTiles>
       <MapTile TileID="513" AltIDMod="0" />
       <MapTile TileID="514" AltIDMod="0" />
