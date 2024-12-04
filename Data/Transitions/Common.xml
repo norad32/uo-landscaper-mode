@@ -31,15 +31,6 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Common - Rough Jungle" HashKey="828282828282828282" File="Jungle.xml">
-    <MapTiles>
-      <MapTile TileID="172" AltIDMod="0" />
-      <MapTile TileID="173" AltIDMod="0" />
-      <MapTile TileID="174" AltIDMod="0" />
-      <MapTile TileID="175" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
   <TransInfo Description="Common - Dungeon Cave" HashKey="151515151515151515" File="Cave.xml">
     <MapTiles>
       <MapTile TileID="581" AltIDMod="0" />
@@ -236,15 +227,6 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Common - Jungle" HashKey="0A0A0A0A0A0A0A0A0A" File="Jungle.xml">
-    <MapTiles>
-      <MapTile TileID="172" AltIDMod="0" />
-      <MapTile TileID="173" AltIDMod="0" />
-      <MapTile TileID="174" AltIDMod="0" />
-      <MapTile TileID="175" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
   <TransInfo Description="Common - Red Brick (EW)" HashKey="353535353535353535">
     <MapTiles>
       <MapTile TileID="1150" AltIDMod="0" />
@@ -387,15 +369,6 @@
       <MapTile TileID="197" AltIDMod="0" />
       <MapTile TileID="198" AltIDMod="0" />
       <MapTile TileID="199" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
-  <TransInfo Description="Common - Jungle Without Static" HashKey="444444444444444444">
-    <MapTiles>
-      <MapTile TileID="172" AltIDMod="0" />
-      <MapTile TileID="173" AltIDMod="0" />
-      <MapTile TileID="174" AltIDMod="0" />
-      <MapTile TileID="175" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
