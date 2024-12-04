@@ -272,15 +272,6 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Common - Large Dirt" HashKey="070707070707070707">
-    <MapTiles>
-      <MapTile TileID="113" AltIDMod="0" />
-      <MapTile TileID="114" AltIDMod="0" />
-      <MapTile TileID="115" AltIDMod="0" />
-      <MapTile TileID="116" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
   <TransInfo Description="Common - Moss" HashKey="323232323232323232">
     <MapTiles>
       <MapTile TileID="15853" AltIDMod="0" />
@@ -544,15 +535,6 @@
       <MapTile TileID="169" AltIDMod="0" />
       <MapTile TileID="170" AltIDMod="0" />
       <MapTile TileID="171" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
-  <TransInfo Description="Common - Small Dirt" HashKey="080808080808080808">
-    <MapTiles>
-      <MapTile TileID="117" AltIDMod="0" />
-      <MapTile TileID="118" AltIDMod="0" />
-      <MapTile TileID="119" AltIDMod="0" />
-      <MapTile TileID="120" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
