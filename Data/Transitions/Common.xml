@@ -194,15 +194,6 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Common - Forest Without Static" HashKey="3F3F3F3F3F3F3F3F3F">
-    <MapTiles>
-      <MapTile TileID="196" AltIDMod="0" />
-      <MapTile TileID="197" AltIDMod="0" />
-      <MapTile TileID="198" AltIDMod="0" />
-      <MapTile TileID="199" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
   <TransInfo Description="Common - Moss Without Static" HashKey="454545454545454545">
     <MapTiles>
       <MapTile TileID="15853" AltIDMod="0" />
@@ -274,15 +265,6 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Common - Goblin Forest" HashKey="3D3D3D3D3D3D3D3D3D" File="Goblin Forest.xml">
-    <MapTiles>
-      <MapTile TileID="196" AltIDMod="0" />
-      <MapTile TileID="197" AltIDMod="0" />
-      <MapTile TileID="198" AltIDMod="0" />
-      <MapTile TileID="199" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
   <TransInfo Description="Common - Light Sandstone Brick (NS)" HashKey="1F1F1F1F1F1F1F1F1F">
     <MapTiles>
       <MapTile TileID="1094" AltIDMod="0" />
@@ -305,15 +287,6 @@
       <MapTile TileID="1159" AltIDMod="0" />
       <MapTile TileID="1160" AltIDMod="0" />
       <MapTile TileID="1161" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
-  <TransInfo Description="Common - Forest" HashKey="0B0B0B0B0B0B0B0B0B" File="Forest.xml">
-    <MapTiles>
-      <MapTile TileID="196" AltIDMod="0" />
-      <MapTile TileID="197" AltIDMod="0" />
-      <MapTile TileID="198" AltIDMod="0" />
-      <MapTile TileID="199" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
@@ -360,15 +333,6 @@
       <MapTile TileID="1035" AltIDMod="0" />
       <MapTile TileID="1036" AltIDMod="0" />
       <MapTile TileID="1037" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
-  <TransInfo Description="Common - Rough Forest" HashKey="838383838383838383" File="Forest.xml">
-    <MapTiles>
-      <MapTile TileID="196" AltIDMod="0" />
-      <MapTile TileID="197" AltIDMod="0" />
-      <MapTile TileID="198" AltIDMod="0" />
-      <MapTile TileID="199" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
@@ -490,15 +454,6 @@
       <MapTile TileID="1153" AltIDMod="0" />
       <MapTile TileID="1154" AltIDMod="0" />
       <MapTile TileID="1155" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
-  <TransInfo Description="Common - Goblin Forest Vyseky" HashKey="484848484848484848" File="Goblin Forest Vyseky.xml">
-    <MapTiles>
-      <MapTile TileID="196" AltIDMod="0" />
-      <MapTile TileID="197" AltIDMod="0" />
-      <MapTile TileID="198" AltIDMod="0" />
-      <MapTile TileID="199" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
