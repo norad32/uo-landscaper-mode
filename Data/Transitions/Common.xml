@@ -31,24 +31,6 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Common - Rough Sand" HashKey="818181818181818181" File="Sand.xml">
-    <MapTiles>
-      <MapTile TileID="22" AltIDMod="0" />
-      <MapTile TileID="23" AltIDMod="0" />
-      <MapTile TileID="24" AltIDMod="0" />
-      <MapTile TileID="25" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
-  <TransInfo Description="Common - Rough Jungle" HashKey="828282828282828282" File="Jungle.xml">
-    <MapTiles>
-      <MapTile TileID="172" AltIDMod="0" />
-      <MapTile TileID="173" AltIDMod="0" />
-      <MapTile TileID="174" AltIDMod="0" />
-      <MapTile TileID="175" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
   <TransInfo Description="Common - Dungeon Cave" HashKey="151515151515151515" File="Cave.xml">
     <MapTiles>
       <MapTile TileID="581" AltIDMod="0" />
@@ -130,15 +112,6 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Common - Sand Without Static" HashKey="434343434343434343">
-    <MapTiles>
-      <MapTile TileID="22" AltIDMod="0" />
-      <MapTile TileID="23" AltIDMod="0" />
-      <MapTile TileID="24" AltIDMod="0" />
-      <MapTile TileID="25" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
   <TransInfo Description="Common - Cavewalls ( Dungeons )" HashKey="373737373737373737">
     <MapTiles>
       <MapTile TileID="602" AltIDMod="0" />
@@ -212,24 +185,6 @@
       <StaticTile TileID="1343" AltIDMod="0" />
     </StaticTiles>
   </TransInfo>
-  <TransInfo Description="Common - Rock" HashKey="121212121212121212">
-    <MapTiles>
-      <MapTile TileID="556" AltIDMod="0" />
-      <MapTile TileID="557" AltIDMod="0" />
-      <MapTile TileID="558" AltIDMod="0" />
-      <MapTile TileID="559" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
-  <TransInfo Description="Common - Forest Without Static" HashKey="3F3F3F3F3F3F3F3F3F">
-    <MapTiles>
-      <MapTile TileID="196" AltIDMod="0" />
-      <MapTile TileID="197" AltIDMod="0" />
-      <MapTile TileID="198" AltIDMod="0" />
-      <MapTile TileID="199" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
   <TransInfo Description="Common - Moss Without Static" HashKey="454545454545454545">
     <MapTiles>
       <MapTile TileID="15853" AltIDMod="0" />
@@ -254,39 +209,12 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Common - Jungle" HashKey="0A0A0A0A0A0A0A0A0A" File="Jungle.xml">
-    <MapTiles>
-      <MapTile TileID="172" AltIDMod="0" />
-      <MapTile TileID="173" AltIDMod="0" />
-      <MapTile TileID="174" AltIDMod="0" />
-      <MapTile TileID="175" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
   <TransInfo Description="Common - Red Brick (EW)" HashKey="353535353535353535">
     <MapTiles>
       <MapTile TileID="1150" AltIDMod="0" />
       <MapTile TileID="1151" AltIDMod="0" />
       <MapTile TileID="1156" AltIDMod="0" />
       <MapTile TileID="1157" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
-  <TransInfo Description="Common - Rough Grass" HashKey="808080808080808080" File="Grass.xml">
-    <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
-  <TransInfo Description="Common - Large Dirt" HashKey="070707070707070707">
-    <MapTiles>
-      <MapTile TileID="113" AltIDMod="0" />
-      <MapTile TileID="114" AltIDMod="0" />
-      <MapTile TileID="115" AltIDMod="0" />
-      <MapTile TileID="116" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
@@ -299,15 +227,6 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Common - Grass Without Static" HashKey="3E3E3E3E3E3E3E3E3E">
-    <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
   <TransInfo Description="Common - Stars" HashKey="0E0E0E0E0E0E0E0E0E">
     <MapTiles>
       <MapTile TileID="506" AltIDMod="0" />
@@ -316,42 +235,6 @@
       <MapTile TileID="509" AltIDMod="0" />
       <MapTile TileID="510" AltIDMod="0" />
       <MapTile TileID="511" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
-  <TransInfo Description="Common - Rough Snow" HashKey="848484848484848484" File="Snow.xml">
-    <MapTiles>
-      <MapTile TileID="282" AltIDMod="0" />
-      <MapTile TileID="283" AltIDMod="0" />
-      <MapTile TileID="284" AltIDMod="0" />
-      <MapTile TileID="285" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
-  <TransInfo Description="Common - Snow" HashKey="0C0C0C0C0C0C0C0C0C" File="Snow.xml">
-    <MapTiles>
-      <MapTile TileID="282" AltIDMod="0" />
-      <MapTile TileID="283" AltIDMod="0" />
-      <MapTile TileID="284" AltIDMod="0" />
-      <MapTile TileID="285" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
-  <TransInfo Description="Common - Sand" HashKey="040404040404040404" File="Sand.xml">
-    <MapTiles>
-      <MapTile TileID="22" AltIDMod="0" />
-      <MapTile TileID="23" AltIDMod="0" />
-      <MapTile TileID="24" AltIDMod="0" />
-      <MapTile TileID="25" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
-  <TransInfo Description="Common - Goblin Forest" HashKey="3D3D3D3D3D3D3D3D3D" File="Goblin Forest.xml">
-    <MapTiles>
-      <MapTile TileID="196" AltIDMod="0" />
-      <MapTile TileID="197" AltIDMod="0" />
-      <MapTile TileID="198" AltIDMod="0" />
-      <MapTile TileID="199" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
@@ -380,15 +263,6 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Common - Forest" HashKey="0B0B0B0B0B0B0B0B0B" File="Forest.xml">
-    <MapTiles>
-      <MapTile TileID="196" AltIDMod="0" />
-      <MapTile TileID="197" AltIDMod="0" />
-      <MapTile TileID="198" AltIDMod="0" />
-      <MapTile TileID="199" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
   <TransInfo Description="Common - Dungeon Cave Without Static" HashKey="4A4A4A4A4A4A4A4A4A">
     <MapTiles>
       <MapTile TileID="581" AltIDMod="0" />
@@ -396,15 +270,6 @@
       <MapTile TileID="583" AltIDMod="0" />
       <MapTile TileID="584" AltIDMod="0" />
       <MapTile TileID="585" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
-  <TransInfo Description="Common - Snow Without Static" HashKey="474747474747474747">
-    <MapTiles>
-      <MapTile TileID="282" AltIDMod="0" />
-      <MapTile TileID="283" AltIDMod="0" />
-      <MapTile TileID="284" AltIDMod="0" />
-      <MapTile TileID="285" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
@@ -432,24 +297,6 @@
       <MapTile TileID="1035" AltIDMod="0" />
       <MapTile TileID="1036" AltIDMod="0" />
       <MapTile TileID="1037" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
-  <TransInfo Description="Common - Rough Forest" HashKey="838383838383838383" File="Forest.xml">
-    <MapTiles>
-      <MapTile TileID="196" AltIDMod="0" />
-      <MapTile TileID="197" AltIDMod="0" />
-      <MapTile TileID="198" AltIDMod="0" />
-      <MapTile TileID="199" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
-  <TransInfo Description="Common - Jungle Without Static" HashKey="444444444444444444">
-    <MapTiles>
-      <MapTile TileID="172" AltIDMod="0" />
-      <MapTile TileID="173" AltIDMod="0" />
-      <MapTile TileID="174" AltIDMod="0" />
-      <MapTile TileID="175" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
@@ -485,15 +332,6 @@
       <StaticTile TileID="1342" AltIDMod="0" />
       <StaticTile TileID="1343" AltIDMod="0" />
     </StaticTiles>
-  </TransInfo>
-  <TransInfo Description="Common - Grass" HashKey="010101010101010101" File="Grass.xml">
-    <MapTiles>
-      <MapTile TileID="3" AltIDMod="0" />
-      <MapTile TileID="4" AltIDMod="0" />
-      <MapTile TileID="5" AltIDMod="0" />
-      <MapTile TileID="6" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
   </TransInfo>
   <TransInfo Description="Common - Shallow Water" HashKey="060606060606060606">
     <MapTiles>
@@ -574,15 +412,6 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Common - Small Dirt" HashKey="080808080808080808">
-    <MapTiles>
-      <MapTile TileID="117" AltIDMod="0" />
-      <MapTile TileID="118" AltIDMod="0" />
-      <MapTile TileID="119" AltIDMod="0" />
-      <MapTile TileID="120" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
   <TransInfo Description="Common - Red brick (NS)" HashKey="222222222222222222">
     <MapTiles>
       <MapTile TileID="1152" AltIDMod="0" />
@@ -592,37 +421,10 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Common - Goblin Forest Vyseky" HashKey="484848484848484848" File="Goblin Forest Vyseky.xml">
-    <MapTiles>
-      <MapTile TileID="196" AltIDMod="0" />
-      <MapTile TileID="197" AltIDMod="0" />
-      <MapTile TileID="198" AltIDMod="0" />
-      <MapTile TileID="199" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
   <TransInfo Description="Common - Planks WE" HashKey="171717171717171717">
     <MapTiles>
       <MapTile TileID="663" AltIDMod="0" />
       <MapTile TileID="693" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
-  <TransInfo Description="Common - Beach" HashKey="505050505050505050" File="Beach.xml">
-    <MapTiles>
-      <MapTile TileID="22" AltIDMod="-5" />
-      <MapTile TileID="23" AltIDMod="-5" />
-      <MapTile TileID="24" AltIDMod="-5" />
-      <MapTile TileID="25" AltIDMod="-5" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
-  <TransInfo Description="Common - Beach without Static" HashKey="515151515151515151" File="">
-    <MapTiles>
-      <MapTile TileID="22" AltIDMod="-5" />
-      <MapTile TileID="23" AltIDMod="-5" />
-      <MapTile TileID="24" AltIDMod="-5" />
-      <MapTile TileID="25" AltIDMod="-5" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
@@ -653,21 +455,21 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Common - Sand Embankment" HashKey="525252525252525252"> 
-    <MapTiles> 
-      <MapTile TileID="22" AltIDMod="0" /> 
-      <MapTile TileID="23" AltIDMod="0" /> 
-      <MapTile TileID="24" AltIDMod="0" /> 
-      <MapTile TileID="25" AltIDMod="0" /> 
-    </MapTiles> 
+  <TransInfo Description="Common - Sand Embankment" HashKey="525252525252525252">
+    <MapTiles>
+      <MapTile TileID="22" AltIDMod="0" />
+      <MapTile TileID="23" AltIDMod="0" />
+      <MapTile TileID="24" AltIDMod="0" />
+      <MapTile TileID="25" AltIDMod="0" />
+    </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Common - Acid" HashKey="8C8C8C8C8C8C8C8C8C"> 
-    <MapTiles> 
-      <MapTile TileID="11818" AltIDMod="0" /> 
-      <MapTile TileID="11819" AltIDMod="0" /> 
-      <MapTile TileID="11820" AltIDMod="0" /> 
-      <MapTile TileID="11821" AltIDMod="0" /> 
+  <TransInfo Description="Common - Acid" HashKey="8C8C8C8C8C8C8C8C8C">
+    <MapTiles>
+      <MapTile TileID="11818" AltIDMod="0" />
+      <MapTile TileID="11819" AltIDMod="0" />
+      <MapTile TileID="11820" AltIDMod="0" />
+      <MapTile TileID="11821" AltIDMod="0" />
       <MapTile TileID="11822" AltIDMod="0" />
       <MapTile TileID="11823" AltIDMod="0" />
       <MapTile TileID="11824" AltIDMod="0" />
@@ -682,25 +484,25 @@
       <MapTile TileID="11833" AltIDMod="0" />
       <MapTile TileID="11834" AltIDMod="0" />
       <MapTile TileID="11835" AltIDMod="0" />
-    </MapTiles> 
+    </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Common - Tree" HashKey="8D8D8D8D8D8D8D8D8D"> 
-    <MapTiles> 
-      <MapTile TileID="11881" AltIDMod="0" /> 
-    </MapTiles> 
+  <TransInfo Description="Common - Tree" HashKey="8D8D8D8D8D8D8D8D8D">
+    <MapTiles>
+      <MapTile TileID="11881" AltIDMod="0" />
+    </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Common - Cave Wall" HashKey="8E8E8E8E8E8E8E8E8E"> 
-    <MapTiles> 
-      <MapTile TileID="12130" AltIDMod="0" /> 
-    </MapTiles> 
+  <TransInfo Description="Common - Cave Wall" HashKey="8E8E8E8E8E8E8E8E8E">
+    <MapTiles>
+      <MapTile TileID="12130" AltIDMod="0" />
+    </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Common - Sink Hole" HashKey="8F8F8F8F8F8F8F8F8F"> 
-    <MapTiles> 
-      <MapTile TileID="12541" AltIDMod="0" /> 
-    </MapTiles> 
+  <TransInfo Description="Common - Sink Hole" HashKey="8F8F8F8F8F8F8F8F8F">
+    <MapTiles>
+      <MapTile TileID="12541" AltIDMod="0" />
+    </MapTiles>
     <StaticTiles />
   </TransInfo>
 </Trans>

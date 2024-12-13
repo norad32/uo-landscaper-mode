@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Trans>
-    <TransInfo Description="Jungle to Shallow Water SN" HashKey="0606060A0A0A0A0A0A">
+  <TransInfo Description="Jungle to Shallow Water SN" HashKey="0606060A0A0A0A0A0A">
     <MapTiles>
       <MapTile TileID="1916" AltIDMod="-15" />
     </MapTiles>
@@ -1039,7 +1039,7 @@
       <StaticTile TileID="6066" AltIDMod="-5" />
     </StaticTiles>
   </TransInfo>
- <TransInfo Description="Jungle to Shallow Water AC" HashKey="0A0A0A060A060A0A0A">
+  <TransInfo Description="Jungle to Shallow Water AC" HashKey="0A0A0A060A060A0A0A">
     <MapTiles>
       <MapTile TileID="102" AltIDMod="-15" />
     </MapTiles>
