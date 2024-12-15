@@ -309,15 +309,6 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Common - Lava" HashKey="0D0D0D0D0D0D0D0D0D" File="Lava.xml">
-    <MapTiles>
-      <MapTile TileID="500" AltIDMod="0" />
-      <MapTile TileID="501" AltIDMod="0" />
-      <MapTile TileID="502" AltIDMod="0" />
-      <MapTile TileID="503" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
   <TransInfo Description="Common - Mountain Cave Without Static" HashKey="494949494949494949" File="">
     <MapTiles>
       <MapTile TileID="556" AltIDMod="120" />
