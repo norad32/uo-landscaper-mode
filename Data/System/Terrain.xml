@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Terrains>
-  <Terrain Name="Sink Hole" ID="143" TileID="12541" R="40" G="70" B="40" Base="216" Random="False" />
   <Terrain Name="Cave Wall" ID="142" TileID="12130" R="100" G="102" B="102" Base="216" Random="False" />
   <Terrain Name="Tree" ID="141" TileID="11881" R="80" G="40" B="54" Base="216" Random="False" />
   <Terrain Name="Acid" ID="140" TileID="11818" R="60" G="80" B="101" Base="216" Random="False" />
@@ -10,10 +9,9 @@
   <Terrain Name="Jungle Rough" ID="130" TileID="172" R="0" G="85" B="85" Base="88" Random="True" />
   <Terrain Name="Sand Rough" ID="129" TileID="22" R="200" G="191" B="51" Base="88" Random="True" />
   <Terrain Name="Grass Rough" ID="128" TileID="3" R="60" G="100" B="0" Base="88" Random="True" />
-  <Terrain Name="Dirt Embankment" ID="85" TileID="117" R="110" G="100" B="80" Base="216" Random="False" />
-  <Terrain Name="Snow Embankment (Dark)" ID="84" TileID="282" R="130" G="130" B="130" Base="216" Random="False" />
-  <Terrain Name="Grass Embankment (Dark)" ID="83" TileID="3" R="0" G="80" B="0" Base="216" Random="False" />
-  <Terrain Name="Sand Embankment" ID="82" TileID="22" R="187" G="151" B="21" Base="216" Random="False" />
+  <Terrain Name="Embankment Snow NE" ID="84" TileID="282" R="130" G="130" B="130" Base="216" Random="False" />
+  <Terrain Name="Embankment Dark NE" ID="83" TileID="3" R="0" G="80" B="0" Base="216" Random="False" />
+  <Terrain Name="Embankment NE" ID="82" TileID="22" R="187" G="151" B="21" Base="216" Random="False" />
   <Terrain Name="Beach No Statics" ID="81" TileID="22" R="188" G="182" B="150" Base="216" Random="False" />
   <Terrain Name="Beach" ID="80" TileID="22" R="255" G="255" B="192" Base="216" Random="False" />
   <Terrain Name="High Coast - Janice" ID="77" TileID="26" R="0" G="0" B="200" Base="24" Random="False" />
@@ -25,7 +23,6 @@
   <Terrain Name="Moss No Statics" ID="69" TileID="15853" R="60" G="225" B="200" Base="88" Random="False" />
   <Terrain Name="Jungle No Statics" ID="68" TileID="172" R="100" G="150" B="107" Base="88" Random="False" />
   <Terrain Name="Sand No Statics" ID="67" TileID="22" R="245" G="240" B="100" Base="88" Random="False" />
-  <Terrain Name="Dark Forest" ID="66" TileID="196" R="0" G="90" B="120" Base="88" Random="False" />
   <Terrain Name="Forest Yew" ID="65" TileID="196" R="0" G="90" B="110" Base="88" Random="False" />
   <Terrain Name="Graveyard" ID="64" TileID="117" R="128" G="128" B="128" Base="88" Random="False" />
   <Terrain Name="Forest No Statics" ID="63" TileID="196" R="100" G="100" B="100" Base="88" Random="False" />
@@ -46,10 +43,9 @@
   <Terrain Name="Lavafalls North" ID="48" TileID="500" R="255" G="50" B="0" Base="88" Random="False" />
   <Terrain Name="Waterfalls West" ID="47" TileID="168" R="0" G="130" B="255" Base="24" Random="False" />
   <Terrain Name="Waterfalls North" ID="46" TileID="168" R="0" G="120" B="255" Base="24" Random="False" />
-  <Terrain Name="Snow Embankment" ID="45" TileID="282" R="150" G="150" B="150" Base="216" Random="False" />
-  <Terrain Name="Jungle Embankment" ID="44" TileID="172" R="0" G="95" B="95" Base="216" Random="False" />
-  <Terrain Name="Forest Embankment" ID="43" TileID="196" R="0" G="140" B="100" Base="216" Random="False" />
-  <Terrain Name="Grass Embankment" ID="42" TileID="3" R="0" G="120" B="0" Base="216" Random="False" />
+  <Terrain Name="Embankment Snow SE" ID="44" TileID="172" R="0" G="95" B="95" Base="216" Random="False" />
+  <Terrain Name="Embankment Dark SE" ID="43" TileID="196" R="0" G="140" B="100" Base="216" Random="False" />
+  <Terrain Name="Embankment SE" ID="42" TileID="3" R="0" G="120" B="0" Base="216" Random="False" />
   <Terrain Name="Swamp" ID="41" TileID="15849" R="50" G="210" B="240" Base="88" Random="False" />
   <Terrain Name="Tile Marble" ID="40" TileID="1263" R="210" G="210" B="200" Base="216" Random="False" />
   <Terrain Name="Flagstone EW" ID="39" TileID="1259" R="70" G="70" B="70" Base="216" Random="False" />
@@ -76,7 +72,6 @@
   <Terrain Name="Rock" ID="18" TileID="556" R="75" G="75" B="75" Base="152" Random="True" />
   <Terrain Name="Tile Blue" ID="17" TileID="528" R="0" G="60" B="95" Base="216" Random="False" />
   <Terrain Name="Cave Entrance" ID="255" TileID="580" R="206" G="174" B="123" Base="88" Random="False" />
-  <Terrain Name="Test Pattern" ID="254" TileID="1078" R="110" G="107" B="109" Base="88" Random="False" />
   <Terrain Name="Void" ID="14" TileID="506" R="75" G="75" B="100" Base="88" Random="False" />
   <Terrain Name="Lava" ID="13" TileID="500" R="255" G="0" B="0" Base="88" Random="False" />
   <Terrain Name="Snow" ID="12" TileID="282" R="255" G="255" B="255" Base="88" Random="False" />

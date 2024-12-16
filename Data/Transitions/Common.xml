@@ -401,15 +401,6 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Common - Dirt Embankment" HashKey="555555555555555555">
-    <MapTiles>
-      <MapTile TileID="117" AltIDMod="0" />
-      <MapTile TileID="118" AltIDMod="0" />
-      <MapTile TileID="119" AltIDMod="0" />
-      <MapTile TileID="120" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
   <TransInfo Description="Common - Sand Embankment" HashKey="525252525252525252">
     <MapTiles>
       <MapTile TileID="22" AltIDMod="0" />
@@ -451,12 +442,6 @@
   <TransInfo Description="Common - Cave Wall" HashKey="8E8E8E8E8E8E8E8E8E">
     <MapTiles>
       <MapTile TileID="12130" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
-  <TransInfo Description="Common - Sink Hole" HashKey="8F8F8F8F8F8F8F8F8F">
-    <MapTiles>
-      <MapTile TileID="12541" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
