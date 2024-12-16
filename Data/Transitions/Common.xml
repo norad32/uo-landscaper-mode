@@ -1,14 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Trans>
-  <TransInfo Description="Common - Swamp Without Static" HashKey="464646464646464646">
-    <MapTiles>
-      <MapTile TileID="15849" AltIDMod="0" />
-      <MapTile TileID="15850" AltIDMod="0" />
-      <MapTile TileID="15851" AltIDMod="0" />
-      <MapTile TileID="15852" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
   <TransInfo Description="Common - White Marble" HashKey="282828282828282828">
     <MapTiles>
       <MapTile TileID="1263" AltIDMod="0" />
@@ -185,15 +176,6 @@
       <StaticTile TileID="1343" AltIDMod="0" />
     </StaticTiles>
   </TransInfo>
-  <TransInfo Description="Common - Moss Without Static" HashKey="454545454545454545">
-    <MapTiles>
-      <MapTile TileID="15853" AltIDMod="0" />
-      <MapTile TileID="15854" AltIDMod="0" />
-      <MapTile TileID="15855" AltIDMod="0" />
-      <MapTile TileID="15856" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
   <TransInfo Description="Common - Furrows W" HashKey="030303030303030303" File="Furrows.xml">
     <MapTiles>
       <MapTile TileID="336" AltIDMod="0" />
@@ -215,15 +197,6 @@
       <MapTile TileID="1151" AltIDMod="0" />
       <MapTile TileID="1156" AltIDMod="0" />
       <MapTile TileID="1157" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
-  <TransInfo Description="Common - Moss" HashKey="323232323232323232">
-    <MapTiles>
-      <MapTile TileID="15853" AltIDMod="0" />
-      <MapTile TileID="15854" AltIDMod="0" />
-      <MapTile TileID="15855" AltIDMod="0" />
-      <MapTile TileID="15856" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
@@ -270,15 +243,6 @@
       <MapTile TileID="583" AltIDMod="0" />
       <MapTile TileID="584" AltIDMod="0" />
       <MapTile TileID="585" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
-  <TransInfo Description="Common - Swamp" HashKey="292929292929292929" File="Swamp.xml">
-    <MapTiles>
-      <MapTile TileID="15849" AltIDMod="0" />
-      <MapTile TileID="15850" AltIDMod="0" />
-      <MapTile TileID="15851" AltIDMod="0" />
-      <MapTile TileID="15852" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
@@ -437,15 +401,6 @@
     </MapTiles>
     <StaticTiles />
   </TransInfo>
-  <TransInfo Description="Common - Dirt Embankment" HashKey="555555555555555555">
-    <MapTiles>
-      <MapTile TileID="117" AltIDMod="0" />
-      <MapTile TileID="118" AltIDMod="0" />
-      <MapTile TileID="119" AltIDMod="0" />
-      <MapTile TileID="120" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
   <TransInfo Description="Common - Sand Embankment" HashKey="525252525252525252">
     <MapTiles>
       <MapTile TileID="22" AltIDMod="0" />
@@ -487,12 +442,6 @@
   <TransInfo Description="Common - Cave Wall" HashKey="8E8E8E8E8E8E8E8E8E">
     <MapTiles>
       <MapTile TileID="12130" AltIDMod="0" />
-    </MapTiles>
-    <StaticTiles />
-  </TransInfo>
-  <TransInfo Description="Common - Sink Hole" HashKey="8F8F8F8F8F8F8F8F8F">
-    <MapTiles>
-      <MapTile TileID="12541" AltIDMod="0" />
     </MapTiles>
     <StaticTiles />
   </TransInfo>
