@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trans>
+  <TransInfo Description="Bottom" HashKey="848484090906090909">
+    <MapTiles>
+      <MapTile TileID="168" AltIDMod="0" />
+      <MapTile TileID="169" AltIDMod="0" />
+      <MapTile TileID="170" AltIDMod="0" />
+      <MapTile TileID="171" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Bottom" HashKey="848484060909090909">
+    <MapTiles>
+      <MapTile TileID="168" AltIDMod="0" />
+      <MapTile TileID="169" AltIDMod="0" />
+      <MapTile TileID="170" AltIDMod="0" />
+      <MapTile TileID="171" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Top" HashKey="090909090906848484">
+    <MapTiles>
+      <MapTile TileID="785" AltIDMod="-7" />
+      <MapTile TileID="789" AltIDMod="-7" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="6058" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Top" HashKey="090909060909848484">
+    <MapTiles>
+      <MapTile TileID="776" AltIDMod="-7" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="6059" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Right" HashKey="840909840909840609">
+    <MapTiles>
+      <MapTile TileID="168" AltIDMod="0" />
+      <MapTile TileID="169" AltIDMod="0" />
+      <MapTile TileID="170" AltIDMod="0" />
+      <MapTile TileID="171" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Right" HashKey="840609840909840909">
+    <MapTiles>
+      <MapTile TileID="168" AltIDMod="0" />
+      <MapTile TileID="169" AltIDMod="0" />
+      <MapTile TileID="170" AltIDMod="0" />
+      <MapTile TileID="171" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Left" HashKey="090984090984090684">
+    <MapTiles>
+      <MapTile TileID="783" AltIDMod="-7" />
+      <MapTile TileID="787" AltIDMod="-7" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="6058" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Left" HashKey="090684090984090984">
+    <MapTiles>
+      <MapTile TileID="776" AltIDMod="-7" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="6057" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+</Trans>
+
+
