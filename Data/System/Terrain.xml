@@ -14,7 +14,7 @@
   <Terrain Name="Embankment NE" ID="82" TileID="22" R="187" G="151" B="21" Base="216" Random="False" />
   <Terrain Name="Beach No Statics" ID="81" TileID="22" R="188" G="182" B="150" Base="216" Random="False" />
   <Terrain Name="Beach" ID="80" TileID="22" R="255" G="255" B="192" Base="216" Random="False" />
-  <Terrain Name="High Coast - Janice" ID="77" TileID="26" R="0" G="0" B="200" Base="24" Random="False" />
+  <Terrain Name="Cliffs" ID="77" TileID="168" R="0" G="0" B="200" Base="24" Random="False" />
   <Terrain Name="Cave No Statics" ID="74" TileID="581" R="90" G="90" B="90" Base="216" Random="False" />
   <Terrain Name="Cave Rock No Statics" ID="73" TileID="581" R="145" G="150" B="75" Base="216" Random="False" />
   <Terrain Name="Forest Cleared" ID="72" TileID="196" R="35" G="60" B="75" Base="88" Random="False" />
@@ -80,8 +80,8 @@
   <Terrain Name="Water" ID="9" TileID="168" R="0" G="110" B="255" Base="24" Random="False" />
   <Terrain Name="Dirt Small" ID="8" TileID="117" R="135" G="125" B="90" Base="88" Random="False" />
   <Terrain Name="Dirt Large" ID="7" TileID="113" R="120" G="110" B="90" Base="88" Random="False" />
-  <Terrain Name="Shallow Water" ID="6" TileID="102" R="0" G="0" B="170" Base="24" Random="False" />
-  <Terrain Name="Deep Water" ID="5" TileID="168" R="0" G="0" B="130" Base="24" Random="False" />
+  <Terrain Name="Coast Dark" ID="6" TileID="168" R="0" G="0" B="170" Base="24" Random="False" />
+  <Terrain Name="Coast" ID="5" TileID="168" R="0" G="0" B="130" Base="24" Random="False" />
   <Terrain Name="Sand" ID="4" TileID="22" R="227" G="191" B="51" Base="88" Random="False" />
   <Terrain Name="Furrows EW" ID="3" TileID="336" R="130" G="100" B="85" Base="88" Random="False" />
   <Terrain Name="Furrows NS" ID="2" TileID="9" R="130" G="100" B="50" Base="88" Random="False" />
