@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RandomStatics Chance="100">
+  <Statics Description="Corner" Freq="1">
+    <Static TileID="6056" X="0" Y="0" Z="5" Hue="0" />
+  </Statics>
+  <Statics Description="Corner" Freq="1">
+    <Static TileID="6064" X="0" Y="0" Z="5" Hue="0" />
+  </Statics>
+</RandomStatics>
