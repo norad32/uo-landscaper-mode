@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RandomStatics Chance="100">
+  <Statics Description="Waterfall" Freq="1">
+    <Static TileID="13585" X="0" Y="0" Z="44" Hue="0" />
+    <Static TileID="13591" X="0" Y="0" Z="37" Hue="0" />
+    <Static TileID="13591" X="0" Y="0" Z="30" Hue="0" />
+    <Static TileID="13591" X="0" Y="0" Z="20" Hue="0" />
+    <Static TileID="13591" X="0" Y="0" Z="10" Hue="0" />
+    <Static TileID="13591" X="0" Y="0" Z="0" Hue="0" />
+    <Static TileID="13597" X="0" Y="1" Z="0" Hue="0" />
+    <Static TileID="13603" X="0" Y="2" Z="0" Hue="0" />
+  </Statics>
+</RandomStatics>
