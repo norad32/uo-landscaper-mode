@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trans>
+  <TransInfo Description="Top EW" HashKey="0C0C0C4D4D4D09092E">
+    <MapTiles>
+      <MapTile TileID="442" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="6047" AltIDMod="0" />
+      <StaticTile TileID="6048" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Top Right EW" HashKey="0C0C4D4D4D4D092E4D">
+    <MapTiles>
+      <MapTile TileID="26" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="6047" AltIDMod="0" />
+      <StaticTile TileID="6048" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Outer Top Right EW" HashKey="0C4D094D4D092E4D09" File="Waterfall_5_TopRight.xml">
+    <MapTiles>
+      <MapTile TileID="441" AltIDMod="5" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="6051" AltIDMod="0" />
+      <StaticTile TileID="6052" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Bottom EW" HashKey="09092E4D4D4D0C0C0C">
+    <MapTiles>
+      <MapTile TileID="14451" AltIDMod="0" />
+      <MapTile TileID="14455" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Bottom Right EW" HashKey="092E4D4D4D4D0C0C4D">
+    <MapTiles>
+      <MapTile TileID="26" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Outer Bottom Right EW" HashKey="2E4D094D4D090C4D09">
+    <MapTiles>
+      <MapTile TileID="441" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="6051" AltIDMod="0" />
+      <StaticTile TileID="6052" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Left NS" HashKey="0C4D090C4D090C4D2E">
+    <MapTiles>
+      <MapTile TileID="441" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="6051" AltIDMod="0" />
+      <StaticTile TileID="6052" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Bottom Left NS" HashKey="0C4D090C4D2E4D4D4D">
+    <MapTiles>
+      <MapTile TileID="27" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="6051" AltIDMod="0" />
+      <StaticTile TileID="6052" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Outer Bottom Left NS" HashKey="0C4D2E4D4D4D090909" File="Waterfall_5_BottomLeft.xml">
+    <MapTiles>
+      <MapTile TileID="442" AltIDMod="5" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="6047" AltIDMod="0" />
+      <StaticTile TileID="6048" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Right NS" HashKey="094D0C094D0C2E4D0C">
+    <MapTiles>
+      <MapTile TileID="14449" AltIDMod="0" />
+      <MapTile TileID="14453" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Bottom Right NS" HashKey="094D0C2E4D0C4D4D4D">
+    <MapTiles>
+      <MapTile TileID="27" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Outer Bottom Right NS" HashKey="2E4D0C4D4D4D090909">
+    <MapTiles>
+      <MapTile TileID="442" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="6047" AltIDMod="0" />
+      <StaticTile TileID="6048" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Top" HashKey="0C0C0C4D4D4D092E4D">
+    <MapTiles>
+      <MapTile TileID="442" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="6047" AltIDMod="0" />
+      <StaticTile TileID="6048" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Outer Top Right EW" HashKey="0C0C0C4D4D4D2E4D09" File="Waterfall_5_TopRight.xml">
+    <MapTiles>
+      <MapTile TileID="442" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="6054" AltIDMod="0" />
+      <StaticTile TileID="6063" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Bottom" HashKey="092E4D4D4D4D0C0C0C">
+    <MapTiles>
+      <MapTile TileID="14451" AltIDMod="0" />
+      <MapTile TileID="14455" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Outer Bottom Right EW" HashKey="2E4D094D4D4D0C0C0C" File="">
+    <MapTiles>
+      <MapTile TileID="14451" AltIDMod="0" />
+      <MapTile TileID="14455" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Left" HashKey="0C4D090C4D2E0C4D4D">
+    <MapTiles>
+      <MapTile TileID="441" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="6051" AltIDMod="0" />
+      <StaticTile TileID="6052" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Waterfall NS Bottom Left" HashKey="0C4D2E0C4D4D0C4D09" File="Waterfall_5_BottomLeft.xml">
+    <MapTiles>
+      <MapTile TileID="441" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="6054" AltIDMod="0" />
+      <StaticTile TileID="6063" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Right NS" HashKey="094D0C2E4D0C4D4D0C">
+    <MapTiles>
+      <MapTile TileID="14449" AltIDMod="0" />
+      <MapTile TileID="14453" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Waterfall NS Bottom Left" HashKey="2E4D0C4D4D0C094D0C">
+    <MapTiles>
+      <MapTile TileID="14449" AltIDMod="0" />
+      <MapTile TileID="14453" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+    </StaticTiles>
+  </TransInfo>
+</Trans>

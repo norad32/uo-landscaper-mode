@@ -32,6 +32,22 @@
     <StaticTiles>
     </StaticTiles>
   </TransInfo>
+  <TransInfo Description="Bottom" HashKey="0550500550504D4D4D">
+    <MapTiles>
+      <MapTile TileID="448" AltIDMod="0" />
+      <MapTile TileID="452" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Bottom" HashKey="4D50504D5050050505">
+    <MapTiles>
+      <MapTile TileID="448" AltIDMod="0" />
+      <MapTile TileID="452" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+    </StaticTiles>
+  </TransInfo>
   <TransInfo Description="Top" HashKey="05054D505050505050">
     <MapTiles>
       <MapTile TileID="22" AltIDMod="0" />
@@ -104,6 +120,22 @@
     <StaticTiles>
     </StaticTiles>
   </TransInfo>
+  <TransInfo Description="Right" HashKey="05054D50504D50504D">
+    <MapTiles>
+      <MapTile TileID="450" AltIDMod="0" />
+      <MapTile TileID="454" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Right" HashKey="4D4D05505005505005">
+    <MapTiles>
+      <MapTile TileID="450" AltIDMod="0" />
+      <MapTile TileID="454" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+    </StaticTiles>
+  </TransInfo>
   <TransInfo Description="Left" HashKey="0550500550504D5050">
     <MapTiles>
       <MapTile TileID="22" AltIDMod="0" />
@@ -140,6 +172,34 @@
       <MapTile TileID="23" AltIDMod="0" />
       <MapTile TileID="24" AltIDMod="0" />
       <MapTile TileID="25" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Bottom Right" HashKey="50504D50504D05054D">
+    <MapTiles>
+      <MapTile TileID="443" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Bottom Right" HashKey="5050055050054D4D4D">
+    <MapTiles>
+      <MapTile TileID="443" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Bottom Right" HashKey="5050055050054D4D05">
+    <MapTiles>
+      <MapTile TileID="443" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Bottom Right" HashKey="50504D50504D050505">
+    <MapTiles>
+      <MapTile TileID="443" AltIDMod="0" />
     </MapTiles>
     <StaticTiles>
     </StaticTiles>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trans>
+  <TransInfo Description="Water" HashKey="0609090609092F0909">
+    <MapTiles>
+      <MapTile TileID="168" AltIDMod="0" />
+      <MapTile TileID="169" AltIDMod="0" />
+      <MapTile TileID="170" AltIDMod="0" />
+      <MapTile TileID="171" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Water" HashKey="06060609092F09092F">
+    <MapTiles>
+      <MapTile TileID="168" AltIDMod="0" />
+      <MapTile TileID="169" AltIDMod="0" />
+      <MapTile TileID="170" AltIDMod="0" />
+      <MapTile TileID="171" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Water" HashKey="2F0909060909060909">
+    <MapTiles>
+      <MapTile TileID="168" AltIDMod="0" />
+      <MapTile TileID="169" AltIDMod="0" />
+      <MapTile TileID="170" AltIDMod="0" />
+      <MapTile TileID="171" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Water" HashKey="060909060909062F2F">
+    <MapTiles>
+      <MapTile TileID="168" AltIDMod="0" />
+      <MapTile TileID="169" AltIDMod="0" />
+      <MapTile TileID="170" AltIDMod="0" />
+      <MapTile TileID="171" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Water" HashKey="06062F090909090909">
+    <MapTiles>
+      <MapTile TileID="168" AltIDMod="0" />
+      <MapTile TileID="169" AltIDMod="0" />
+      <MapTile TileID="170" AltIDMod="0" />
+      <MapTile TileID="171" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Water" HashKey="2F0606090909090909">
+    <MapTiles>
+      <MapTile TileID="168" AltIDMod="0" />
+      <MapTile TileID="169" AltIDMod="0" />
+      <MapTile TileID="170" AltIDMod="0" />
+      <MapTile TileID="171" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Water" HashKey="2F09062F09062F0906">
+    <MapTiles>
+      <MapTile TileID="168" AltIDMod="0" />
+      <MapTile TileID="169" AltIDMod="0" />
+      <MapTile TileID="170" AltIDMod="0" />
+      <MapTile TileID="171" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="Water" HashKey="2F2F2F090909060606">
+    <MapTiles>
+      <MapTile TileID="168" AltIDMod="0" />
+      <MapTile TileID="169" AltIDMod="0" />
+      <MapTile TileID="170" AltIDMod="0" />
+      <MapTile TileID="171" AltIDMod="0" />
+    </MapTiles>
+    <StaticTiles>
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="EW" HashKey="06060609092F060606">
+    <MapTiles>
+      <MapTile TileID="145" AltIDMod="-7" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="6039" AltIDMod="0" />
+      <StaticTile TileID="6040" AltIDMod="0" />
+      <StaticTile TileID="6041" AltIDMod="0" />
+      <StaticTile TileID="6042" AltIDMod="0" />
+      <StaticTile TileID="6043" AltIDMod="0" />
+      <StaticTile TileID="6044" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="EW" HashKey="09092F09092F060606">
+    <MapTiles>
+      <MapTile TileID="145" AltIDMod="-7" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="6039" AltIDMod="0" />
+      <StaticTile TileID="6040" AltIDMod="0" />
+      <StaticTile TileID="6041" AltIDMod="0" />
+      <StaticTile TileID="6042" AltIDMod="0" />
+      <StaticTile TileID="6043" AltIDMod="0" />
+      <StaticTile TileID="6044" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="NS" HashKey="060906060906062F06">
+    <MapTiles>
+      <MapTile TileID="141" AltIDMod="-7" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="6039" AltIDMod="0" />
+      <StaticTile TileID="6040" AltIDMod="0" />
+      <StaticTile TileID="6041" AltIDMod="0" />
+      <StaticTile TileID="6042" AltIDMod="0" />
+      <StaticTile TileID="6043" AltIDMod="0" />
+      <StaticTile TileID="6044" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+  <TransInfo Description="NS" HashKey="0909060909062F2F06">
+    <MapTiles>
+      <MapTile TileID="141" AltIDMod="-7" />
+    </MapTiles>
+    <StaticTiles>
+      <StaticTile TileID="6039" AltIDMod="0" />
+      <StaticTile TileID="6040" AltIDMod="0" />
+      <StaticTile TileID="6041" AltIDMod="0" />
+      <StaticTile TileID="6042" AltIDMod="0" />
+      <StaticTile TileID="6043" AltIDMod="0" />
+      <StaticTile TileID="6044" AltIDMod="0" />
+    </StaticTiles>
+  </TransInfo>
+</Trans>

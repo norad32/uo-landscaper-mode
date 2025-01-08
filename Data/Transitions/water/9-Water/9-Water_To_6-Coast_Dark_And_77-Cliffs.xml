@@ -56,18 +56,18 @@
       <StaticTile TileID="6059" AltIDMod="0" />
     </StaticTiles>
   </TransInfo>
-  <TransInfo Description="Top" HashKey="0909090909094D4D06">
+  <TransInfo Description="Top Light To Dark" HashKey="0909090909094D4D06">
     <MapTiles>
-      <MapTile TileID="145" AltIDMod="-2" />
+      <MapTile TileID="720" AltIDMod="-2" />
     </MapTiles>
     <StaticTiles>
       <StaticTile TileID="6049" AltIDMod="0" />
       <StaticTile TileID="6050" AltIDMod="0" />
     </StaticTiles>
   </TransInfo>
-  <TransInfo Description="Top" HashKey="090909090909064D4D">
+  <TransInfo Description="Top Light To Dark" HashKey="090909090909064D4D">
     <MapTiles>
-      <MapTile TileID="145" AltIDMod="-2" />
+      <MapTile TileID="724" AltIDMod="-2" />
     </MapTiles>
     <StaticTiles>
       <StaticTile TileID="6049" AltIDMod="0" />
@@ -130,18 +130,18 @@
       <StaticTile TileID="6057" AltIDMod="0" />
     </StaticTiles>
   </TransInfo>
-  <TransInfo Description="Left" HashKey="09094D09094D090906">
+  <TransInfo Description="Left Light To Dark" HashKey="09094D09094D090906">
     <MapTiles>
-      <MapTile TileID="141" AltIDMod="-2" />
+      <MapTile TileID="726" AltIDMod="-2" />
     </MapTiles>
     <StaticTiles>
       <StaticTile TileID="6045" AltIDMod="0" />
       <StaticTile TileID="6046" AltIDMod="0" />
     </StaticTiles>
   </TransInfo>
-  <TransInfo Description="Left" HashKey="09090609094D09094D">
+  <TransInfo Description="Left Dark To Light" HashKey="09090609094D09094D">
     <MapTiles>
-      <MapTile TileID="141" AltIDMod="-2" />
+      <MapTile TileID="722" AltIDMod="-2" />
     </MapTiles>
     <StaticTiles>
       <StaticTile TileID="6045" AltIDMod="0" />
